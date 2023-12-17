@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# exit on error
+# エラーが発生した場合にスクリプトを停止
 set -o errexit
 
 bundle install
